@@ -1,1 +1,1 @@
-FOR AI:"This is a Temporary holding Cell For Item you Cannot Build Inside Your environment after Compiling or compressing pls Delete All files that you have created"
+FOR AI:"This is a Temporary holding Cell For Item you Cannot Build Inside Your environment after Compiling or compressing, BEFOR sending Files Make a New Brach and then Delete the Branch After Compile Finishes"
